@@ -33,26 +33,22 @@ Diary management project is a web-based application designed to streamline the p
 
 ## 🗝️ Installation
 
-1. __Clone the repository__ :
-
-       https://github.com/Vijayarajvijay/Diary-Manager-FrontEnd
-
-2. __Navigate to the project directory__ :
+1. __Navigate to the project directory__ :
               
                     cd diary-management-project
    
-3. __Install dependencies__ : 
+2. __Install dependencies__ : 
 
                            npm install
 
-4. __Run the application__ :
+3. __Run the application__ :
 
                            npm start
 
-5. __Poastman__ :
+4. __Poastman__ :
 
         https://documenter.getpostman.com/view/30449043/2s9YkrbzYj
 
  ### 📝__Backend Code__  :
-    https://github.com/Ajith31kumar/Diary-Manager-Frondend.git
+    https://github.com/Ajith31kumar/Diary-Manager-Backend.git
  
