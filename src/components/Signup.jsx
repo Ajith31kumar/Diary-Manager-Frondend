@@ -77,7 +77,7 @@ function Signup() {
               <h1>Create your account👋</h1>
             </div>
             <form className="my-form">
-              <div className="socials-row">
+              {/* <div className="socials-row">
                 <a onClick={()=>showToast('Google')} title="Use Google">
                   <img src={googleimg} alt="Google" />
                   Sign up with Google
@@ -86,7 +86,7 @@ function Signup() {
                   <img src={appleimag} alt="Apple" />
                   Sign up with Apple
                 </a>
-              </div>
+              </div> */}
               <div className="divider">
                 <div className="divider-line"></div>
                 Or

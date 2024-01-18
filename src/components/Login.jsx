@@ -94,7 +94,7 @@ function Login() {
               <p>Please enter your details!</p>
             </div>
             <form className="my-form">
-              <div className="socials-row" >
+              {/* <div className="socials-row" >
                 <a onClick={()=>showToast('google')}  title="Use Google">
                   <img src={googleimg} alt="Google" />
                   Log in with Google
@@ -103,7 +103,7 @@ function Login() {
                   <img src={appleimag} alt="Apple" />
                   Log in with Apple
                 </a>
-              </div>
+              </div> */}
               <div className="divider">
                 <div className="divider-line"></div>
                 Or
