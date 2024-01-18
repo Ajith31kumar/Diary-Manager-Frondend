@@ -88,9 +88,9 @@ function Signup() {
                 </a>
               </div> */}
               <div className="divider">
-                <div className="divider-line"></div>
+                {/* <div className="divider-line"></div>
                 Or
-                <div className="divider-line"></div>
+                <div className="divider-line"></div> */}
               </div>
               <div className="text-field">
                 <label htmlFor="text">User Name:</label>
