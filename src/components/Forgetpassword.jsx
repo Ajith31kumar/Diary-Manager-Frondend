@@ -57,7 +57,7 @@ function Forgetpassword() {
                         <p> Enter your email to recievenpmnp reset link</p>
                     </div>
                     <form className="my-form">
-                        <div className="socials-row">
+                        {/* <div className="socials-row">
                             <a
                                onClick={()=>showToast('Google')}
                                 title="Use Google"
@@ -72,11 +72,11 @@ function Forgetpassword() {
                                 <img src={appleimag} alt="Apple"/>
                                 Log in with Apple
                             </a>
-                        </div>
+                        </div> */}
                         <div className="divider">
-                            <div className="divider-line"></div>
+                            {/* <div className="divider-line"></div>
                             Or
-                            <div className="divider-line"></div>
+                            <div className="divider-line"></div> */}
                         </div>
                         <div className="text-field">
                             <label for="email">Email:</label>

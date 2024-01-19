@@ -56,7 +56,7 @@ function Login() {
         
         if (status === 401) {
           // Unauthorized: Invalid email or password
-          toast.error('Invalid password');
+          toast.error('Invalid email or password');
         } else if (status === 404) {
           // Not Found: User does not exist
           toast.error('Email does not exist');
